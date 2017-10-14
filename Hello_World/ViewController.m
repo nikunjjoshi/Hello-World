@@ -17,6 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"");
+<<<<<<< HEAD
+    NSLog(@"change twoo");
+=======
+    NSLog(@"This work is done");
+>>>>>>> Change_1
     // Do any additional setup after loading the view, typically from a nib.
 }
 
